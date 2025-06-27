@@ -224,7 +224,7 @@ While validation results demonstrate the model's learning capacity, the test per
 https://github.com/BredaUniversityADSAI/2024-25c-fai2-adsai-group-group2-dutch/blob/main/evidence_map/task_8_evidence/Task_8_error_analysis.pdf
 
 **Explainable AI (XAI):** Model interpretability analysis has been conducted and documented at:
-https://github.com/BredaUniversityADSAI/2024-25c-fai2-adsai-group-group2-dutch/blob/main/evidence_map/task_9_evidence/XAI_report.md
+https://github.com/LucasDuckworth230533/retake-block-c-year-2/blob/main/task_9_evidence/XAI_report.md
 
 ## Usage
 
